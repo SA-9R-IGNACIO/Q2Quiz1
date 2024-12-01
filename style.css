@@ -1,0 +1,19 @@
+body{
+	background-color: saddlebrown;
+}
+
+.container {
+	background-color: lightgoldenrodyellow;
+	padding: 15px;
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.37);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.37);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.37);
+}
+
+img {
+    width: 150px;        
+    height: 150px;       
+    object-fit: cover;   
+    border-radius: 5px;  
+    display: block;      
+    margin: 0 auto;    
